@@ -25,4 +25,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainArnav&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/CaptainArnav/github-readme-stats)
 
 ## Interests
-Travel 🌎| Reading 🤩| Formula 1 🏎| and a whole lot more 😄
+Travel🌎| Reading🤩| Movies🎥| Formula 1🏎| and a whole lot more😄
