@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom : none">"Learning never exhausts the mind."</h1>
+<h2 align="center" style="border-bottom : none">"Learning never exhausts the mind."</h2>
 <h5 align="right">– Leonardo da Vinci</h5>
 <hr>
 <h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
