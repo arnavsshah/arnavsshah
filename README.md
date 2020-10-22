@@ -1,7 +1,7 @@
-<h3 align="center">"Learning never exhausts the mind."</h3>
+<h1 align="center" style="border-bottom : none">"Learning never exhausts the mind."</h1>
 <h5 align="right">– Leonardo da Vinci</h5>
 <hr>
-<h4 align="center">Hey there, I'm Arnav! 👋</h4>
+<h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
 <p align="center">Third Year Information Technology student at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai</p>
 
 
