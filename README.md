@@ -1,6 +1,6 @@
 <h2 align="center">"Learning never exhausts the mind."</h2>
 <h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
-<p align="center">Third Year Information Technology student at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai</p>
+<p align="center">Final Year Information Technology student at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai</p>
 
 
 [![Gmail](https://img.shields.io/badge/arnavshah73%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavshah73@gmail.com)
@@ -9,15 +9,17 @@
 
 ## Tech Skills
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f2f2f2?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![Java](https://img.shields.io/badge/-Java-ff6600?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9999ff?style=flat-square&logo=postgresql)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-d9d9d9?style=flat-square&logo=neo4j)
 
-**\*Currently exploring the field of deep learning.👽**
+**\*Currently exploring the field of deep learning and Natural Language Processing.👽**
 
 ## GitHub Stats and Most Used Languages
 
