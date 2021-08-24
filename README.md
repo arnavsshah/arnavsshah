@@ -19,7 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9999ff?style=flat-square&logo=postgresql)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-d9d9d9?style=flat-square&logo=neo4j)
 
-**\*Currently exploring the field of deep learning and Natural Language Processing.👽**
+**\*Currently exploring the field of Deep :earning and Natural Language Processing.👽**
 
 ## GitHub Stats and Most Used Languages
 
