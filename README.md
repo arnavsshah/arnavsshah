@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/arnavshah73%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavshah73@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/CaptainArnav-9cf?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arnav-s-shah/)
 [![Ymail](https://img.shields.io/badge/shah.arnav%40yahoo.in-6001d2?style=for-the-badge&logo=yahoo!)](mailto:shah.arnav@yahoo.in)
-[![Leetcode](https://img.shields.io/badge/CaptainArnav-9cf?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/CaptainArnav/)
+[![Leetcode](https://img.shields.io/badge/CaptainArnav-9ac?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/CaptainArnav/)
 
 
 ## Tech Skills
