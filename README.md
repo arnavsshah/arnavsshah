@@ -25,8 +25,8 @@
 
 ## GitHub Stats and Most Used Languages
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=CaptainArnav&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainArnav&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/CaptainArnav/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=arnavsshah&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsshah&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/arnavsshah/github-readme-stats)
 
 ## Interests
 Travel🌎| Reading🤩| Movies🎥| Formula 1🏎| and a whole lot more😄
