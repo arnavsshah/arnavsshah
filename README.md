@@ -13,6 +13,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-f2f2f2?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-f2f2f2?style=flat-square&logo=pytorch)
 ![Java](https://img.shields.io/badge/-Java-ff6600?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat-square&logo=python)
