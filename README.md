@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-ff6600?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9999ff?style=flat-square&logo=postgresql)
