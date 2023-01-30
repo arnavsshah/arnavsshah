@@ -1,6 +1,6 @@
 <h2 align="center">"Learning never exhausts the mind."</h2>
 <h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
-<p align="center">I am a Master's student in CS at <a href="https://www.jhu.edu/">Johns Hopkins University</a></p>
+<p align="center">I am a Master's student studying Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a></p>
 
 
 [![Gmail](https://img.shields.io/badge/arnavshah73%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavshah73@gmail.com)
