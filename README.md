@@ -11,21 +11,25 @@
 
 ## Tech Skills
 
+![PyTorch](https://img.shields.io/badge/-PyTorch-f2f2f2?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-f2f2f2?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-f2f2f2?style=flat-square&logo=pytorch)
 ![Java](https://img.shields.io/badge/-Java-ff6600?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9999ff?style=flat-square&logo=postgresql)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-d9d9d9?style=flat-square&logo=neo4j)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-yellow?style=flat-square&logo=elasticsearch)
+![Airflow](https://img.shields.io/badge/-Airflow-red?style=flat-square&logo=apache-airflow)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 
-**Currently exploring the fields of Natural Language Processing and Information Retrieval.**
+<em>I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="(https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages</em>
 
 ## GitHub Stats and Most Used Languages
 
