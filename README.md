@@ -7,9 +7,9 @@ I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. Davi
 [![JHU](https://img.shields.io/badge/ashah108%40jh.edu-blue?style=for-the-badge&logo=jhu&logoColor=white)](mailto:ashah108@jhu.edu)
 [![Github.io](https://img.shields.io/badge/arnavsshah.github.io-white?style=for-the-badge&logo=github&logoColor=black)](https://arnavsshah.github.io/)
 [![Gmail](https://img.shields.io/badge/arnavshah73%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavshah73@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/ArnavShah-9cf?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arnav-s-shah/)
+[![LinkedIn](https://img.shields.io/badge/ArnavShah-dff6f7?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arnav-s-shah/)
 [![Ymail](https://img.shields.io/badge/shah.arnav%40yahoo.in-6001d2?style=for-the-badge&logo=yahoo!)](mailto:shah.arnav@yahoo.in)
-[![Leetcode](https://img.shields.io/badge/ArnavShah-9ac?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/CaptainArnav/)
+[![Leetcode](https://img.shields.io/badge/ArnavShah-ecf0df?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/CaptainArnav/)
 
 
 ## Tech Skills
