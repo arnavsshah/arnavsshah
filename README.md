@@ -2,6 +2,7 @@
 <h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
 <p align="center">I am a Master's student studying Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a></p>
 
+I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages
 
 [![Gmail](https://img.shields.io/badge/arnavshah73%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavshah73@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/ArnavShah-9cf?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arnav-s-shah/)
@@ -29,7 +30,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 
-<strong>I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages</strong>
 
 ## GitHub Stats and Most Used Languages
 
