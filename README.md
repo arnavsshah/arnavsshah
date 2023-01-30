@@ -29,7 +29,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 
-<em>I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="(https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages</em>
+<strong>I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages</strong>
 
 ## GitHub Stats and Most Used Languages
 
