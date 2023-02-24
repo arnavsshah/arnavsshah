@@ -4,7 +4,7 @@
 
 I am currently advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages
 
-[![JHU](https://img.shields.io/badge/ashah108%40jh.edu-blue?style=for-the-badge&logo=jhu&logoColor=white)](mailto:ashah108@jhu.edu)
+[![JHU](https://img.shields.io/badge/ashah108%40jhu.edu-blue?style=for-the-badge&logo=jhu&logoColor=white)](mailto:ashah108@jhu.edu)
 [![Github.io](https://img.shields.io/badge/arnavsshah.github.io-d5d6d0?style=for-the-badge&logo=github&logoColor=black)](https://arnavsshah.github.io/)
 [![Gmail](https://img.shields.io/badge/arnavshah73%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavshah73@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/ArnavShah-dff6f7?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arnav-s-shah/)
