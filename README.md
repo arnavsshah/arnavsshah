@@ -4,7 +4,9 @@
 
 I am presently working at <a href="https://www.abbott.com/">Abbott</a> as a Data Scientist, as part of their Global Data Science and Analytics team, assisting the company's Medical Devices Division.
 <br>
-I am also a reseach assistant at Johns Hopkins, advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages
+I am also a reseach assistant at Johns Hopkins, advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> and <a href="https://www.clsp.jhu.edu/faculty/paola-garcia/">Prof. Paola Garcia</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages
+
+Personal Website: https://arnavsshah.github.io
 
 [![JHU](https://img.shields.io/badge/ashah108%40jhu.edu-blue?style=for-the-badge&logo=jhu&logoColor=white)](mailto:ashah108@jhu.edu)
 [![Github.io](https://img.shields.io/badge/arnavsshah.github.io-d5d6d0?style=for-the-badge&logo=github&logoColor=black)](https://arnavsshah.github.io/)
