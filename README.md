@@ -2,9 +2,9 @@
 <h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
 <p align="center">I am a Master's student studying Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a></p>
 
-I am presently working at <a href="https://www.abbott.com/">Abbott</a> as a Data Scientist, as part of their Global Data Science and Analytics team, assisting the company's Medical Devices Division.
+I am presently working at <a href="https://www.abbott.com/">Abbott</a> as a Software Engineer, as part of their Heart Failure team, assisting the company's Medical Devices Division.
 <br>
-I am also a reseach assistant at Johns Hopkins, advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> and <a href="https://www.clsp.jhu.edu/faculty/paola-garcia/">Prof. Paola Garcia</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages
+I am also a reseach assistant at Johns Hopkins, advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> and <a href="https://www.clsp.jhu.edu/faculty/paola-garcia/">Prof. Paola Garcia</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages and universal voice activity detection.
 
 Personal Website: https://arnavsshah.github.io
 
@@ -18,18 +18,19 @@ Personal Website: https://arnavsshah.github.io
 
 ## Tech Skills
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-f2f2f2?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-f2f2f2?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![Java](https://img.shields.io/badge/-Java-ff6600?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-blue.svg?logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9999ff?style=flat-square&logo=postgresql)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-d9d9d9?style=flat-square&logo=neo4j)
+![PyTorch](https://img.shields.io/badge/-PyTorch-f2f2f2?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f2f2f2?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-yellow?style=flat-square&logo=elasticsearch)
 ![Airflow](https://img.shields.io/badge/-Airflow-red?style=flat-square&logo=apache-airflow)
