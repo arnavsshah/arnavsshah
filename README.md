@@ -2,7 +2,8 @@
 <h3 align="center" style="border-bottom : none">Hey there, I'm Arnav! 👋</h3>
 <p align="center">I am a Master's student studying Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a></p>
 
-I am presently working at <a href="https://www.abbott.com/">Abbott</a> as a Software Engineer, as part of their Heart Failure team, assisting the company's Medical Devices Division.
+Currently, I am working as  Full-stack Software Engineer at the Johns Hopkins Bloomberg School of Publich Health! <br>
+I have worked at <a href="https://www.abbott.com/">Abbott</a> as a Software Engineer, as part of their Heart Failure team, assisting the company's Medical Devices Division.
 <br>
 I am also a reseach assistant at Johns Hopkins, advised by <a href="https://www.cs.jhu.edu/~yarowsky/">Prof. David Yarowsky</a> and <a href="https://www.clsp.jhu.edu/faculty/paola-garcia/">Prof. Paola Garcia</a> as part of the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> at Johns Hopkins University where I work on automatic speech recognition for low-resource languages and universal voice activity detection.
 
